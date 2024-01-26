@@ -2,10 +2,13 @@ h1{
     margin: 150px;
     text-shadow: 2px 3px 5px red;
     border-style: solid;
+    display: blocksss;
     border-width: 3px;
     color: black;
     border-color: blue;
     border-radius: 25px;
+    background-image: url(Rajini.png);
+    background-repeat: no-repeat;
 }
 pre{
     margin: auto;
@@ -29,4 +32,10 @@ pre{
 }
 #box2{
     background-color: blue;
+}
+
+div{
+    border: 2px solid;
+    height: 75 px;
+    overflow: auto;
 }
